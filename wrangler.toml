@@ -7,7 +7,7 @@ compatibility_date = "2024-01-01"
 # Then replace the id below with the one it gives you.
 [[kv_namespaces]]
 binding = "BRIEF_CACHE"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "1b1bfe3495b247689bc0e7c415b62579"
 
 # ── Cron Triggers ────────────────────────────────────────────────
 # NZT = UTC+12
